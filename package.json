@@ -1,0 +1,20 @@
+{
+  "name": "online-book-store",
+  "version": "1.0.0",
+  "description": "Online Book Store College Assignment - React, TypeScript, Node.js, Express, MongoDB Atlas",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "build:backend": "npm --prefix backend run build",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "express",
+    "mongodb",
+    "mern"
+  ],
+  "author": "",
+  "license": "ISC"
+}
